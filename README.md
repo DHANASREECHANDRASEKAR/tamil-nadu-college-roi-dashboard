@@ -50,3 +50,11 @@ This project improved my skills in manual data collection, data cleaning, Excel 
 🚀 Disclaimer 
 
 This is a self-initiated portfolio project that helped me apply my Excel skills to a real-world problem.
+
+## Dashboard Preview
+
+![Dashboard Screenshot](dashboard-screenshot.png)
+
+## Final Recommendation Preview
+
+![Recommendation Screenshot](recommendation-screenshot.png)
